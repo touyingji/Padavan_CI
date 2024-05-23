@@ -56,8 +56,8 @@ on:
         description: 'upload firmware to anonfiles'
         default: 'false'
 env:
-  REPOSITORY_URL: https://github.com/xiaowansm5/Padavan-KVR.git
-  TOOLCHAIN_URL: https://github.com/hanwckf/padavan-toolchain/releases/download/v1.1/mipsel-linux-uclibc.tar.xz
+  REPOSITORY_URL: https://github.com/vb1980/Padavan-KVR.git
+  TOOLCHAIN_URL: https://github.com/TurBoTse/padavan-toolchain/releases/download/toolchain/mipsel-linux-uclibc.tar.xz
   WORK_PATH: /opt/rt-n56u
   TIME_ZONE: Asia/Shanghai
   FIRMWARE_AUTHOR: hanwckf
